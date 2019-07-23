@@ -1,0 +1,36 @@
+body { 
+  background: url(header.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#starttext
+{
+	text-transform: uppercase;
+	white-space: nowrap;
+	margin: auto;
+	color: white;
+	font-size: 30px;
+	text-align: center;
+	margin-top: 260px;
+}
+
+
+.btn-primary {
+	display: block;
+	color: white;
+	size: 30px;
+	border-radius: 20px;
+	background-color: red;
+	margin: auto;
+	border: 0px solid transparent;
+	margin-top: 190px;
+	width: 120px;
+	padding: 7px;
+}
+
+.btn-primary:hover{
+	background-color: orange;
+}
